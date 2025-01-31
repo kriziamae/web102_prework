@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='https://gyazo.com/3fb03075123129a5da2a3ae36e7d2275' title='GIF Preview' width='' alt='GIF Preview' />
+[![Image from Gyazo](https://i.gyazo.com/3fb03075123129a5da2a3ae36e7d2275.gif)](https://gyazo.com/3fb03075123129a5da2a3ae36e7d2275)
 
 GIF created with ...  
 [Gyazo](https://gyazo.com/)
